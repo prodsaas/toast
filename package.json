@@ -1,0 +1,27 @@
+{
+  "name": "@prodsaas/toast",
+  "version": "1.0.0",
+  "description": "A lightweight toast notification library using modern Vanilla JS and Shadow DOM.",
+  "main": "toast.js",
+  "type": "module",
+  "files": [
+    "toast.js",
+    "toast.css"
+  ],
+  "keywords": [
+    "toast",
+    "notification",
+    "alerts",
+    "vanillajs"
+  ],
+  "homepage": "https://github.com/prodsaas/toast#readme",
+  "bugs": {
+    "url": "https://github.com/prodsaas/toast/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prodsaas/toast.git"
+  },
+  "license": "MIT",
+  "author": "Shubham Lal"
+}
